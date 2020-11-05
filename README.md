@@ -19,8 +19,13 @@ https://www.linuxbabe.com/ubuntu/install-lamp-stack-ubuntu-20-04-server-desktop
 
 but instead of downloading the nextcloud project from the nextcloud server, use the files in this project, 
 in addition there will be a builded and ready version of calendar 2.0.3 of nextcloud in the repository of it's own. (which is Fully PERSIAN and Shamsi (date picker is shamsi as well))
+this link : 
+https://github.com/dev-am1/calendar2.0.3_Builded_READY_TO_USE
+
 and the source code will be in the sourcecode repository . 
+this link : 
+https://github.com/dev-am1/calendar-2.0.3_Persian_Nextcloud_SourceCode_NotBiulded
 
 hope you enjoy and use this contribution. 
 
-for the further versions (ex. nextcloud 20) and contribution to this cause, contact me through my email address amirmoradi069@gmail.com.
+for the further versions (e.g. nextcloud 20) and contribution to this cause, contact me through my email address amirmoradi069@gmail.com.
