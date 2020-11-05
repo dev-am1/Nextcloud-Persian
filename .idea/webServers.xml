@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4d91cf2e-7fe1-4a62-8874-3c282a69459b" name="home server" url="http://85.185.12.243">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="85.185.12.243" port="22" sshConfigId="fbd297cd-2230-4c4a-b503-c0132665d844" sshConfig="dev@85.185.12.243:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="6a1646fa-82fe-4458-89f1-74d9d2d1282d" name="ghazvin" url="http://cloud.qstp.ir">
+        <fileTransfer rootFolder="/var/www/nextcloud" accessType="SFTP" host="213.233.177.194" port="2205" sshConfigId="40e8432e-c041-4600-aeda-890065d40ca6" sshConfig="cloud@213.233.177.194:2205 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

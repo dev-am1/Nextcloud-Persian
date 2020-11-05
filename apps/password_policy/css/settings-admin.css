@@ -1,0 +1,14 @@
+/*
+//
+// *************  RTL Applied *******************
+//
+ */
+
+.password-policy-number-option input {
+	width: 75px;
+}
+
+.password-policy-settings-hint {
+	opacity: 0.7;
+	padding-right: 19px;
+}

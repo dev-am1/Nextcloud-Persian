@@ -1,0 +1,8 @@
+{ "translations": {
+    "Home" : "Domicili",
+    "Today" : "Uèi",
+    "Yesterday" : "Ièr",
+    "Mail" : "Mail",
+    "Settings" : "Paramètres"
+},"pluralForm" :"nplurals=2; plural=(n > 1);"
+}

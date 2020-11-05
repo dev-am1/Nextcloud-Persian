@@ -1,0 +1,9 @@
+{ "translations": {
+    "Text" : "Texto",
+    "Retry" : "Reintentar",
+    "Edit" : "Editar",
+    "Undo" : "Deshacer",
+    "Bold" : "Negrita",
+    "Italic" : "Itálico"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

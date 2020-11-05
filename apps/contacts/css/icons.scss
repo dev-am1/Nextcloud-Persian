@@ -1,0 +1,62 @@
+//
+// *************  RTL Applied *******************
+//
+
+/**
+ * @copyright Copyright (c) 2018 John Molakvoæ <skjnldsv@protonmail.com>
+ *
+ * @author John Molakvoæ <skjnldsv@protonmail.com>
+ *
+ * @license GNU AGPL version 3 or any later version
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as
+ * published by the Free Software Foundation, either version 3 of the
+ * License, or (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program. If not, see <http://www.gnu.org/licenses/>.
+ *
+ */
+
+
+@include icon-black-white('social', 'contacts', 1);
+@include icon-black-white('qrcode', 'contacts', 1);
+@include icon-black-white('address-book', 'contacts', 1);
+@include icon-black-white('phone', 'contacts', 1);
+@include icon-black-white('eye', 'contacts', 1);
+@include icon-black-white('up', 'contacts', 1);
+@include icon-black-white('no-calendar', 'contacts', 1);
+@include icon-black-white('language', 'contacts', 2);
+@include icon-black-white('clone', 'contacts', 2);
+
+.icon-up-force-white {
+	// using #fffffe to trick the accessibility dark theme icon invert
+	@include icon-color('up', 'contacts', '#fffffe', 1);
+}
+
+.icon-history-force-white {
+	// using #fffffe to trick the accessibility dark theme icon invert
+	@include icon-color('history', 'actions', '#fffffe', 1, true);
+}
+
+.icon-delete-force-white {
+	// using #fffffe to trick the accessibility dark theme icon invert
+	@include icon-color('delete', 'actions', '#fffffe', 1, true);
+}
+
+.icon-download-force-white {
+	// using #fffffe to trick the accessibility dark theme icon invert
+	@include icon-color('download', 'actions', '#fffffe', 1, true);
+}
+
+.icon-picture-force-white {
+	// using #fffffe to trick the accessibility dark theme icon invert
+	@include icon-color('picture', 'places', '#fffffe', 1, true);
+}
+

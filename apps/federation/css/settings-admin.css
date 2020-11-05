@@ -1,0 +1,38 @@
+/**
+//
+// *************  RTL Applied *******************
+//
+ */
+
+#ocFederationSettings p {
+	padding-bottom: 10px;
+}
+
+#listOfTrustedServers li {
+	padding-bottom: 10px;
+}
+
+.removeTrustedServer {
+	display: none;
+	vertical-align:middle;
+	padding-right: 10px;
+}
+
+#ocFederationAddServerButton {
+	cursor: pointer;
+}
+
+#listOfTrustedServers .status {
+	margin-left: 10px;
+}
+
+#listOfTrustedServers .icon {
+	cursor: pointer;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 10px;
+}
+
+#ocFederationAddServer #serverUrl {
+	width: 300px;
+}
