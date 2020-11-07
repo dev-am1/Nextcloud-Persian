@@ -1,9 +1,9 @@
 # Nextcloud-Persian
 
 In this repositiry we present the corrected (translations for Persian Language), RTL style and shamsi (hijri) calendar of nextcloud 19.0.1, Hope this contribution suits your needs.
-![alt text](https://github.com/dev-am1/Nextcloud-Persian/edit/master/1.png?raw=true)
-![alt text](https://github.com/dev-am1/Nextcloud-Persian/edit/master/2.png?raw=true)
-![alt text](https://github.com/dev-am1/Nextcloud-Persian/edit/master/3.png?raw=true)
+!persian Nextcloud(https://github.com/dev-am1/Nextcloud-Persian/edit/master/1.png?raw=true)
+!persian Nextcloud(https://github.com/dev-am1/Nextcloud-Persian/edit/master/2.png?raw=true)
+!persian Nextcloud(https://github.com/dev-am1/Nextcloud-Persian/edit/master/3.png?raw=true)
 
 
 This project is ready to install version, 
@@ -23,7 +23,7 @@ https://www.linuxbabe.com/ubuntu/install-lamp-stack-ubuntu-20-04-server-desktop
 
 but instead of downloading the nextcloud project from the nextcloud server, use the files in this project, 
 in addition there will be a builded and ready version of calendar 2.0.3 of nextcloud in the repository of it's own. (which is Fully PERSIAN and Shamsi (date picker is shamsi as well))
-![alt text](https://github.com/dev-am1/Nextcloud-Persian/edit/master/1c.png?raw=true)
+!shamsi Calendar(https://github.com/dev-am1/Nextcloud-Persian/edit/master/1c.png?raw=true)
 this link : 
 https://github.com/dev-am1/calendar2.0.3_Builded_READY_TO_USE
 
